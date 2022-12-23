@@ -1,0 +1,17 @@
+.header{
+width:100%;
+position:sticky;
+font-size:27px;
+}
+
+body{
+background-size:cover;
+}
+
+canvas{
+box-shadow:5px 5px 5px grey;
+border-radius:10;
+background-color:white;
+margin-top:100px;
+margin-left:230px;
+}
